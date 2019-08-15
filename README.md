@@ -12,9 +12,13 @@ The program in theory could be used to:
 3. Import files into IQMS
 
 Program requires at least one argument
+
 [1] - path to folder to loop
+
 [2] - target directory or file [dir,file] optional - default is dir
+
 [3] - directories to skip - can be a single value or list delimitted by commas Example: "Archive,Archive 2"
+
 
 Usage Example:
 
